@@ -1,0 +1,5 @@
+{
+  "name": "Sales Rank Tracker",
+  "description": "A local web application to track sales data for different locations, save it on the user's computer, and display a ranked list of entries. The app features a distinct red and blue theme across its login, data input, and rank display pages.",
+  "requestFramePermissions": []
+}
